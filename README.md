@@ -60,7 +60,7 @@ bash
 Copy
 Edit
 git push origin --delete v1.7
-sql
+
 Copy
 Edit
 
@@ -72,3 +72,7 @@ git commit -m "Add tag and rebase explanations"
 git push origin main
 ```
 -----
+
+![Screenshot](./Supreme-Pizza.jpeg)
+
+
